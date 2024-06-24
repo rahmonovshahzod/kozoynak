@@ -1,0 +1,8 @@
+aiogram
+requests
+pillow
+pytesseract
+torch
+numpy
+pydub
+transformers
